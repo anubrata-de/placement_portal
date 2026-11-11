@@ -1,3 +1,13 @@
+<!-- portfolio
+title: Placement Portal Application (PPA)
+tagline: Role-Based Recruitment Management System
+category: Full-stack apps
+summary: Lets admins, companies and students run campus recruitment: placement drives, applications, eligibility filtering, automated reminders, monthly reports and CSV export.
+tags: Flask, Vue.js, SQLite, Redis, Celery
+slug: placement-portal
+featured: yes
+-->
+
 # Placement Portal V2
 
 A comprehensive placement management system built with Flask and Vue.js for managing student placements, company registrations, and placement drives.
